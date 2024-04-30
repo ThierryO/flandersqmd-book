@@ -1,0 +1,38 @@
+{
+  "access_right": "open",
+  "title": "Quarto extensions for book projects with the corporate identity of the Government of Flanders",
+  "description": "<p>Replace this with a short description of the project. It becomes the abstract of the project in the citation information. And the project description at https://zenodo.org<\/p>",
+  "keywords": [
+    "quarto",
+    "book",
+    "corporate identity",
+    "Government of Flanders"
+  ],
+  "upload_type": "software",
+  "license": "CC-BY-4.0",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "Onkelinx, Thierry",
+      "affiliation": "Research Institute for Nature and Forest (INBO)",
+      "orcid": "0000-0001-8804-4216",
+      "type": "ContactPerson"
+    },
+    {
+      "name": "Research Institute for Nature and Forest (INBO)",
+      "type": "RightsHolder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Onkelinx, Thierry",
+      "affiliation": "Research Institute for Nature and Forest (INBO)",
+      "orcid": "0000-0001-8804-4216"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "inbo"
+    }
+  ]
+}

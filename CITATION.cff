@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: "Quarto extensions for book projects with the corporate identity of the Government
+  of Flanders"
+authors:
+- given-names: Thierry
+  family-names: Onkelinx
+  affiliation: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0001-8804-4216
+keywords:
+- quarto
+- book
+- corporate identity
+- Government of Flanders
+contact:
+- given-names: Thierry
+  family-names: Onkelinx
+  affiliation: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0001-8804-4216
+doi: ~
+license: CC-BY-4.0
+repository-code: https://github.com/ThierryO/flandersqmd-book/
+type: software
+abstract: "Replace this with a short description of the project.\nIt becomes the abstract
+  of the project in the citation information.\nAnd the project description at https://zenodo.org"
